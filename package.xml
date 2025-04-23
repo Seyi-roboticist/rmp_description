@@ -10,6 +10,7 @@
   <buildtool_depend>ament_cmake</buildtool_depend>
 
   <depend>xacro</depend>
+  <depend>urdf</depend>
   <depend>ur_description</depend>
   <depend>robotiq_description</depend>
 
